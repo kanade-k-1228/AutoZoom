@@ -16,3 +16,5 @@ Join and record zoom meeting automatically.
 | ---------------- | ------ | ---------------------------- |
 | YYYYMMDDTT24MMSS | MS     | https//zoom.us/...           |
 | 20210101213000   | 3000   | https//zoom.us/XXXX?pwd=YYYY |
+
+Must be sorted by START_TIME
